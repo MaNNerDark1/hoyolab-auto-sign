@@ -1,6 +1,6 @@
 const profiles = [
   {
-    token: "ltoken_v2=gBxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxCY; ltuid_v2=26XXXXX20;",
+    token: "v2_CAISDGM5b3FhcTNzM2d1OBokNTAyYTU5OGQtMDQ1Mi00ZGQ0LTgzZjUtMDdhNmY2NTAwNjA3IP2co7IGKNi9i7gHMIqivaUBQgtiYnNfb3ZlcnNlYQ.fc5IZgAAAAAB.MEUCIE0pS2VanbO3E7xcH-7Wcmpy5xw3ZZ8jDMixuSEBsJpGAiEAqowk77K89_B7d9oLJjImNryzYn1GLp_Q6AiF_rrUxJ0; ltuid_v2=347033866;",
     genshin: true,
     honkai_star_rail: true,
     honkai_3: false,
